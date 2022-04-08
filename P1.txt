@@ -1,0 +1,18 @@
+PROGRAM:
+// MY FIRST C PROGRAM
+
+#include 
+int main()
+
+{
+   
+ printf ("Talk to a Teacher\n");
+  
+  printf ("Welcome\n");
+  
+  return 0;
+}
+
+OUTPUT:
+Talk to a Teacher
+Welcome
